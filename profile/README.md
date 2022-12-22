@@ -6,20 +6,27 @@
 
 ## 🎁 특별한 가격을 선물하는 식품 특가 정보 서비스 SouP 입니다. 🎁
 _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 우수상 🏆_  
+_개발 기간: 2022.11.01 ~ 2022.12.12_  
 </div> 
-<br><br>
+<br><br>  
 
-### 📍 개발 기간: 2022.11.01 ~ 2022.12.12  
+## 📍 서비스 소개
+카카오 쇼핑, 11번가, 홈플러스 등 다양한 쇼핑몰의 식품 특가 정보를 __30분 주기__ 로 업데이트하여 한눈에 보여주는 서비스입니다.  
+다양한 쇼핑몰에서 빠르게 변동하는 식품의 특가 정보를 한눈에 확인하기 어렵다는 기존의 문제점을 해소합니다.  
+사용자가 편리하게 식품 특가 정보를 확인하고 쇼핑할 수 있도록 로그 기반의 상품 추천, 봇을 통한 사용자 친화적인 검색, 획일화된 카테고리 등 편리한 기능들을 제공합니다.  
+<br> 
 
-### 📍 기능
+
+## 📍 기능
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 18 10" src="https://user-images.githubusercontent.com/54930365/209100815-c85bee19-c181-4d31-bab2-1a59d8b9363e.png">
 </div> 
 <br>
 
-### 📍 주요 기능
+## 📍 주요 기능
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 40 28" src="https://user-images.githubusercontent.com/54930365/209105262-494aaf62-9eab-446a-adb2-e231489178ec.png">  
+
 <br><br>   
 
 <img width="500" alt="추천 기능" src="https://user-images.githubusercontent.com/54930365/209110644-175645f9-3bea-42ab-baeb-2995cab54e54.gif">   
@@ -39,12 +46,12 @@ _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 �
 </div> 
 <br>
 
-### 📍 시연 영상
+## 📍 시연 영상
 
 [🔗 SouP 시연 영상](https://youtu.be/wgamyOjmULU)
 <br>
 
-### 📍 설계도
+## 📍 설계도
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 35 08" src="https://user-images.githubusercontent.com/54930365/209104309-ff2d368e-3418-451d-9b19-dbc68b6eea33.png">  
 
@@ -61,23 +68,35 @@ _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 �
 </div> 
 <br>
 
-### 📍 주요 기술 스택
+## 📍 주요 기술 스택
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 32 07" src="https://user-images.githubusercontent.com/54930365/209103746-d557229e-4e2f-45d0-9864-ca22542b33ac.png">  
 
 #### [ 주요 기술 스택 ]  
+<br> 
 
-
+|분야|기술 스택|
+|:---:|:---:|
+|__DATA PLATFORM__|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"> |
+|__FRONTEND__|<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=black"> |
+|__BACKEND__|<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/GRADLE-02303A?style=flat-square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>|
+|__CLOUD__|<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/AMAZONAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?flat-square&logo=terraform&logoColor=white"> |
+|__LOGGING__|<img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/FLUENTD-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/> <img src="https://img.shields.io/badge/KIBANA-005571?style=flat-square&logo=Kibana&logoColor=white"/>|
+|__CI/CD__|<img src="https://img.shields.io/badge/GITOPS-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/ARGOCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>|
+|__MONITORING__|<img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/GRAFANA-F46800?style=flat-square&logo=Grafana&logoColor=white"/> |
 </div> 
-<br>
+<br> 
 
-### 📍 협업 방식
+
+## 📍 협업 방식
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 7 17 03" src="https://user-images.githubusercontent.com/54930365/209112317-9b01340e-3a9a-4465-98b5-81e694a0f2ac.png">
 </div> 
 <br>
 
-### 📍 레포지토리 
+## 📍 레포지토리 
+<div align="center">  
+
 |레포지토리 |링크|설명|
 |:---:|:---:|:---:|
 |SpecialPriceInformationCrawler|[링크](https://github.com/kakao-shop/SpecialPriceInformationCrawler)|상품 크롤링 코드|
@@ -85,11 +104,11 @@ _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 �
 |soup-frontend|[링크](https://github.com/kakao-shop/soup-frontend)|프론트엔드 코드|
 |soup-backend|[링크](https://github.com/kakao-shop/soup-backend)|백엔드 코드|
 |soup-docker|[링크](https://github.com/kakao-shop/soup-docker) |docker-compose 코드|
-|manifest|[링크](https://github.com/kakao-shop/manifest)|kubernetes manifest files|
-  
+|manifest|[링크](https://github.com/kakao-shop/manifest)|kubernetes manifest files| 
+ </div> 
 <br>
 
-### 📍 팀원 소개
+## 📍 팀원 소개
 <div align="center">  
 <img width="1000" alt="스크린샷 2022-12-22 오후 7 15 20" src="https://user-images.githubusercontent.com/54930365/209111982-0de47974-bd1b-4136-97f5-ed827102a2da.png">
 </div> 
