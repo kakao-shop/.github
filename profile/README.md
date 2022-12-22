@@ -28,7 +28,9 @@ _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 �
 #### [ 검색 기능 🔍 ]  
 
 
-![봇_기능_찐찐_AdobeExpress](https://user-images.githubusercontent.com/54930365/209113098-203e12c3-2850-4edd-8ba2-f6a5e66a2f26.gif)
+
+![봇_기능3_-_4K_AdobeExpress](https://user-images.githubusercontent.com/54930365/209118046-53f9d460-7dec-4365-b09e-5c92c7a7fe29.gif)
+
 #### [ 봇 기능 🤖 ]  
 
 
@@ -71,7 +73,13 @@ _🏆 카카오 클라우드 스쿨 1기 개발자 과정 최종 프로젝트 �
 ### 📍 레포지토리 
 |레포지토리|링크|설명|
 |:---:|:---:|:---:|
-||||
+|SpecialPriceInformationCrawler|[링크](https://github.com/kakao-shop/SpecialPriceInformationCrawler)|상품 크롤링 코드|
+|CategoriesML|[링크](https://github.com/kakao-shop/CategoriesML)|카테고리 분류 코드|
+|soup-frontend|[링크](https://github.com/kakao-shop/soup-frontend)|프론트엔드 코드|
+|soup-backend|[링크](https://github.com/kakao-shop/soup-backend)|백엔드 코드|
+|soup-docker|[링크](https://github.com/kakao-shop/soup-docker) |docker-compose 코드|
+|manifest|[링크](https://github.com/kakao-shop/manifest)|kubernetes manifest files|
+  
 
 
 ### 📍 팀원 소개
