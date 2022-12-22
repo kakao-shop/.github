@@ -85,6 +85,11 @@ __EKS 아키텍처 설계도__
 </div> 
 <br> 
 
+## 📍 DevSevOps
+<div align="center">  
+<img width="710" alt="스크린샷 2022-12-23 오전 1 51 58" src="https://user-images.githubusercontent.com/54930365/209186111-92535195-a489-4dca-9581-e76812f3b659.png">
+</div> 
+<br> 
 
 ## 📍 협업 방식
 <div align="center">  
@@ -97,12 +102,12 @@ __EKS 아키텍처 설계도__
 
 |레포지토리 |링크|설명|
 |:---:|:---:|:---:|
-|SpecialPriceInformationCrawler|[링크](https://github.com/kakao-shop/SpecialPriceInformationCrawler)|상품 크롤링 코드|
-|CategoriesML|[링크](https://github.com/kakao-shop/CategoriesML)|카테고리 분류 코드|
-|soup-frontend|[링크](https://github.com/kakao-shop/soup-frontend)|프론트엔드 코드|
-|soup-backend|[링크](https://github.com/kakao-shop/soup-backend)|백엔드 코드|
-|soup-docker|[링크](https://github.com/kakao-shop/soup-docker) |docker-compose 코드|
-|manifest|[링크](https://github.com/kakao-shop/manifest)|kubernetes manifest files| 
+|SpecialPriceInformationCrawler|[🔗링크](https://github.com/kakao-shop/SpecialPriceInformationCrawler)|상품 크롤링 코드|
+|CategoriesML|[🔗링크](https://github.com/kakao-shop/CategoriesML)|카테고리 분류 코드|
+|soup-frontend|[🔗링크](https://github.com/kakao-shop/soup-frontend)|프론트엔드 코드|
+|soup-backend|[🔗링크](https://github.com/kakao-shop/soup-backend)|백엔드 코드|
+|soup-docker|[🔗링크](https://github.com/kakao-shop/soup-docker) |docker-compose 코드|
+|manifest|[🔗링크](https://github.com/kakao-shop/manifest)|kubernetes manifest files| 
  </div> 
 <br>
 
