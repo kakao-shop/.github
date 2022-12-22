@@ -11,15 +11,17 @@ _📆 개발 기간: 2022.11.01 ~ 2022.12.12 📆_
 <br><br>  
 
 ## 📍 서비스 소개
-카카오 쇼핑, 11번가, 홈플러스 등 다양한 쇼핑몰의 식품 특가 정보를 __30분 주기__ 로 업데이트하여 한눈에 보여주는 서비스입니다.  
-다양한 쇼핑몰에서 빠르게 변동하는 식품의 특가 정보를 한눈에 확인하기 어렵다는 기존의 문제점을 해소합니다.  
-사용자가 편리하게 식품 특가 정보를 확인하고 쇼핑할 수 있도록 로그 기반의 상품 추천, 봇을 통한 사용자 친화적인 검색, 획일화된 카테고리 등  기능들을 제공합니다.  
+💡 카카오 쇼핑, 11번가, 홈플러스 등 다양한 쇼핑몰의 식품 특가 정보를 __30분 주기__ 로 업데이트하여 한눈에👀 보여주는 서비스입니다.  
+💡 다양한 쇼핑몰에서 빠르게 변동하는 식품의 특가 정보를 한눈에 확인하기 어렵다는 기존의 문제점을 해소합니다.  
+💡 사용자가 편리하게 식품 특가 정보를 확인하고 쇼핑할 수 있도록! 로그 기반의 상품 추천, 봇을 통한 사용자 친화적인 검색, 획일화된 카테고리 등 다양한 기능들을 제공합니다.  
 <br> 
 
 
 ## 📍 기능
 <div align="center">  
-<img width="700" alt="스크린샷 2022-12-22 오후 6 18 10" src="https://user-images.githubusercontent.com/54930365/209100815-c85bee19-c181-4d31-bab2-1a59d8b9363e.png">
+
+<img width="700" alt="스크린샷 2022-12-23 오전 1 08 23" src="https://user-images.githubusercontent.com/54930365/209175155-e763815e-7267-4893-96ab-35356601686c.png">
+
 </div> 
 <br>
 
@@ -31,17 +33,17 @@ _📆 개발 기간: 2022.11.01 ~ 2022.12.12 📆_
 
 <img width="500" alt="추천 기능" src="https://user-images.githubusercontent.com/54930365/209110644-175645f9-3bea-42ab-baeb-2995cab54e54.gif">   
 
-#### [ 추천 기능 💁 ]  
+__추천 기능 💁__  
 <br> 
 
 <img width="500" alt="검색 기능" src="https://user-images.githubusercontent.com/54930365/209109015-25770275-9b04-44e1-9bbc-804167c4be23.gif">  
 
-#### [ 검색 기능 🔍 ]   
+__검색 기능 🔍__  
 <br> 
 
 <img width="500" alt="봇 기능" src="https://user-images.githubusercontent.com/54930365/209153651-3bfe1caa-3aa3-49cf-ba29-7b4265278967.gif">   
 
-#### [ 봇 기능 🤖 ] 
+__봇 기능 🤖__  
 
 </div> 
 <br>
@@ -54,16 +56,14 @@ _📆 개발 기간: 2022.11.01 ~ 2022.12.12 📆_
 ## 📍 설계도
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 35 08" src="https://user-images.githubusercontent.com/54930365/209104309-ff2d368e-3418-451d-9b19-dbc68b6eea33.png">  
-
-#### [ 전체 아키텍처 설계도 ] 
-<br>
+ 
+ __전체 아키텍처 설계도__  
+<br> <br>  
 
 
 <img width="700" alt="스크린샷 2022-12-22 오후 6 36 03" src="https://user-images.githubusercontent.com/54930365/209104477-aa7fb1b6-40f4-450d-a1c2-29eeb9e05da2.png">  
-
-#### [ EKS 아키텍처 설계도 ] 
-
-
+ 
+__EKS 아키텍처 설계도__  
 
 </div> 
 <br>
@@ -71,11 +71,9 @@ _📆 개발 기간: 2022.11.01 ~ 2022.12.12 📆_
 ## 📍 주요 기술 스택
 <div align="center">  
 <img width="700" alt="스크린샷 2022-12-22 오후 6 32 07" src="https://user-images.githubusercontent.com/54930365/209103746-d557229e-4e2f-45d0-9864-ca22542b33ac.png">  
+<br> <br>  
 
-#### [ 주요 기술 스택 ]  
-<br> 
-
-|분야|기술 스택|
+|분야|주요 기술 스택|
 |:---:|:---:|
 |__DATA PLATFORM__|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"> |
 |__FRONTEND__|<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=black"> |
